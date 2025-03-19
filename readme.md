@@ -23,7 +23,7 @@ This project is an interactive essay-writing assistant that leverages AI to plan
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/essay-writing-assistant.git
+   git clone https://github.com/sujallchaudhary/essay-writing-assistant.git
    cd essay-writing-assistant
    ```
 
